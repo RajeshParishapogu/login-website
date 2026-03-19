@@ -36,10 +36,10 @@ This project uses basic  pattern-based logic to validate user inputs and improve
 ## Screenshot
 
 ### Welcome Page
-! [Welcome](welcom.png)
+! [Welcome](welcome.png)
 
 ### Login Page
-! [Login](login.png)
+! [Login](loginwebsite.png)
 
 ### Register Page
 ! [Register](register.png)
