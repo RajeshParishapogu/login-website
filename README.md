@@ -9,7 +9,7 @@ It allows users to create accounts and log in securely log in.
 - User Registration
 - User Login Autentication
 
-##Tech Stack
+## Tech Stack
 - Python (Flask)
 - HTML
 - CSS
