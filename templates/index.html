@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: linear-gradient(135deg, #4e73df, #1cc88a);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background: #ffffff;
+            padding: 50px 40px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            text-align: center;
+            width: 380px;
+        }
+
+        h1 {
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        p {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            display: block;
+            text-decoration: none;
+            padding: 12px;
+            border-radius: 6px;
+            margin: 10px 0;
+            font-size: 16px;
+            color: white;
+            transition: 0.3s ease;
+        }
+
+        .register-btn {
+            background-color: #4e73df;
+        }
+
+        .register-btn:hover {
+            background-color: #2e59d9;
+        }
+
+        .login-btn {
+            background-color: #1cc88a;
+        }
+
+        .login-btn:hover {
+            background-color: #17a673;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Welcome</h1>
+        <p>Please register or login to continue.</p>
+
+        <a href="/register" class="btn register-btn">Register</a>
+        <a href="/login" class="btn login-btn">Login</a>
+    </div>
+
+</body>
+</html>
