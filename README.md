@@ -32,3 +32,16 @@ This project uses basic  pattern-based logic to validate user inputs and improve
 ## Problem Solve
 - Helps beginners understand how authentication system work
 - Demonstrates real-world login system implementation.
+
+
+## Screenshorts
+
+### Welcome Page
+![welcome](welcome.png)
+
+### Login Page
+![login](login.png)
+
+### Register Page
+![register](register.png)
+
